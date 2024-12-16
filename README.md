@@ -46,5 +46,6 @@ The project uses a dataset with **3 or more tables**, including details on order
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/Pizza_Sales_SQL_Analysis.git
+   git clone https://github.com/HellyModiKalpesh/Pizza_Sales_SQL_Analysis.git
+   
 
